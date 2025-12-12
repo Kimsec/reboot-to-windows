@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Reboot to Windows
+Comment=Restart system and boot into Windows
+Icon=system-reboot
+Exec=/usr/local/bin/reboot-to-windows
+Terminal=false
+Categories=System;X-KDE-Utilities;
+StartupNotify=true
